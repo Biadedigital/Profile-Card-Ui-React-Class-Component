@@ -14,12 +14,12 @@ export default class App extends Component {
         email: "itsmyrealname@example.com",
         isFavorite: false
      }
-     this.toggleFavorite = this.toggleFavorite.bind(this)
+     // this.toggleFavorite = this.toggleFavorite.bind(this)
     }
         
-    toggleFavorite() {
+    toggleFavorite = () => {
         this.setState(prevState => ({
-            ...prevState,
+            // ...prevState,
             isFavorite: !prevState.isFavorite
         }))
     }

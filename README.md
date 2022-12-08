@@ -2,7 +2,7 @@
 
 Building Profile Card with React JS Class Component 
 
-### Tools
+## Tools
 - [React](https://reactjs.org/)
 - [Vite](https://vitejs.dev/)
 - [Replit](https://replit.com/@Biademade)
@@ -13,4 +13,4 @@ Building Profile Card with React JS Class Component
 
 ## Code
 - [Code-on-Replit](https://replit.com/@Biademade/Profile-Card-Ui-React-Class-Component?v=1)
-- [Code-on-Github](https://Change-Theme-with-React.biademade.repl.co)
+- [Code-on-Github](https://github.com/Biadedigital/Profile-Card-Ui-React-Class-Component)
